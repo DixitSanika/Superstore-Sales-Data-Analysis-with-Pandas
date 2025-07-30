@@ -32,4 +32,4 @@ Project Completed and ready for use in future analysis!
 If you have suggestions, feedback, or ideas to improve this project, feel free to connect with me.
 
 Connect with me on LinkedIn:  
-[Sanika Dixit](https://www.linkedin.com/in/sanika-dixit)
+[Sanika Dixit] (https://www.linkedin.com/in/sanika-dixit-6a2b92259/)
